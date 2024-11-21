@@ -65,7 +65,7 @@ nav ul ul ul{
     position: absolute;
     /*Alineación del elemento padre a la izquierda*/
     left: 0%;
-    /*Se coloca debajo del elemento padre*/
+    /*Se posiciona/coloca debajo del elemento padre*/
     top: 60px;
 }
 /*Estilo para submenús de tercer nivel, es decir, para las listas de las listas de las listas*/
